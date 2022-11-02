@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buoskrch
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Arduino, 3d printing, always Linux 
+- 🌱 I’m currently learning FreeCAD, Linux 
 - 💞️ I’m looking to collaborate on Linux
 - 📫 How to reach me: send me a message in github
 
